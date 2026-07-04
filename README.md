@@ -8,6 +8,7 @@ adding all the online resources for interview preparation
 
 ## Machine Learning
   - [ML_cheatsheets.pdf](https://www.rivista.ai/wp-content/uploads/2024/05/ML_cheatsheets.pdf)
+  - [ML interview questions by datacamp](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
 
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
