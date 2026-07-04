@@ -15,3 +15,7 @@ adding all the online resources for interview preparation
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
 - [git cheatsheet(repo)](https://github.com/krishnasagrawal/Git-Study-Materials-and-Resources/blob/main/Git%20and%20GitHub%20-%20Datasheet%20by%20Durgesh.pdf)
+
+## Azure
+- [azure](https://www.tpointtech.com/microsoft-azure#google_vignette)
+- 
