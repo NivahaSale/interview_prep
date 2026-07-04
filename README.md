@@ -22,3 +22,6 @@ adding all the online resources for interview preparation
 ## Azure
 - [azure](https://www.tpointtech.com/microsoft-azure#google_vignette)
 - [azure interview questions by datacamp](https://www.datacamp.com/blog/azure-interview-questions)
+
+## DBMS
+- [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
