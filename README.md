@@ -25,3 +25,4 @@ adding all the online resources for interview preparation
 
 ## DBMS
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
+- [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
