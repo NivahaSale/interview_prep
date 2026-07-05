@@ -13,6 +13,7 @@ adding all the online resources for interview preparation
   - [binary classification](https://h2o.ai/wiki/binary-classification/)
   - [accuracy, precision, recall](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall)
   - [F1-score](https://www.datacamp.com/tutorial/f1-score)
+  - [loss functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
 
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
