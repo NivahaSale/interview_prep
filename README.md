@@ -27,5 +27,6 @@ adding all the online resources for interview preparation
 - [azure interview questions by datacamp](https://www.datacamp.com/blog/azure-interview-questions)
 
 ## DBMS
+- [dbms roadmap by love babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
 - [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
