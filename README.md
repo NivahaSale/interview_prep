@@ -11,6 +11,7 @@ adding all the online resources for interview preparation
   - [ML interview questions by datacamp](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
 
   - [binary classification](https://h2o.ai/wiki/binary-classification/)
+  - [accuracy, precision, recall](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall)
 
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
