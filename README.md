@@ -17,6 +17,7 @@ adding all the online resources for interview preparation
 
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
+- [computer network](https://drive.google.com/file/d/0ByuqhfL43PhqeDVDcDNDck9KSTQ/edit?resourcekey=0-__SYQ81KoH_jaOJIoQ7NQw)
 
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
