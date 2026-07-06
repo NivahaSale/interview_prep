@@ -14,6 +14,7 @@ adding all the online resources for interview preparation
   - [accuracy, precision, recall](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall)
   - [F1-score](https://www.datacamp.com/tutorial/f1-score)
   - [loss functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
+  - [Activation functions](https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5/)
 ##
   -[Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 
