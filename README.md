@@ -14,6 +14,8 @@ adding all the online resources for interview preparation
   - [accuracy, precision, recall](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall)
   - [F1-score](https://www.datacamp.com/tutorial/f1-score)
   - [loss functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
+##
+  -[Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
