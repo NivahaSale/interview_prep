@@ -40,6 +40,9 @@ adding all the online resources for interview preparation
 - [azure](https://www.tpointtech.com/microsoft-azure#google_vignette)
 - [azure interview questions by datacamp](https://www.datacamp.com/blog/azure-interview-questions)
 
+## OS
+- [OS notes](https://github.com/giriraj191/operating_systems/blob/master/Notes%20OS%20Interview.pdf)
+
 ## DBMS
 - [dbms roadmap by love babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
