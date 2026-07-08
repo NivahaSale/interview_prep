@@ -41,6 +41,7 @@ adding all the online resources for interview preparation
 - [azure interview questions by datacamp](https://www.datacamp.com/blog/azure-interview-questions)
 
 ## OS
+- [OS - lovebabbar](https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view)
 - [OS notes](https://github.com/giriraj191/operating_systems/blob/master/Notes%20OS%20Interview.pdf)
 
 ## DBMS
