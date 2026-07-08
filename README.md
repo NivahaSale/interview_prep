@@ -20,8 +20,11 @@ adding all the online resources for interview preparation
   -[Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 ##
   -[ml- netlearning](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
+  
   -[ml-simplelearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
+  
   -[gen ai by datacamp](https://www.datacamp.com/blog/genai-interview-questions)
+  
   -[ai by datacamp](https://www.datacamp.com/blog/ai-interview-questions)
   
 ## Computer Networking
