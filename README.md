@@ -18,7 +18,12 @@ adding all the online resources for interview preparation
   - [ML Cheat sheet by datacamp](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)
 ##
   -[Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
-
+##
+  -[ml- netlearning](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
+  -[ml-simplelearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
+  -[gen ai by datacamp](https://www.datacamp.com/blog/genai-interview-questions)
+  -[ai by datacamp](https://www.datacamp.com/blog/ai-interview-questions)
+  
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
 - [computer network](https://drive.google.com/file/d/0ByuqhfL43PhqeDVDcDNDck9KSTQ/edit?resourcekey=0-__SYQ81KoH_jaOJIoQ7NQw)
