@@ -50,4 +50,5 @@ adding all the online resources for interview preparation
 - [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
 
 ## SQL
+-[sql](https://www.sqltutorial.org/)
 -[indexing](https://blog.newtum.com/indexing-in-sql/)
