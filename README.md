@@ -3,7 +3,8 @@ adding all the online resources for interview preparation
 
 
 # Interview Preparation Resources
-
+##
+  -[LLM Flashcards](https://llmsresearch.com/flashcards)
 
 
 ## Machine Learning
