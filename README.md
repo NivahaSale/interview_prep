@@ -4,7 +4,7 @@ adding all the online resources for interview preparation
 
 # Interview Preparation Resources
 ## LLM's
-  - [LLM Flashcards](https://llmsresearch.com/flashcards)
+  - [LLM interview Q's - Medium blog](https://adilshamim8.medium.com/50-practical-llm-interview-questions-crack-ai-genai-roles-with-confidence-e1f789e01348)
 
 
 ## Machine Learning
