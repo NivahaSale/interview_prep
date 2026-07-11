@@ -53,3 +53,9 @@ adding all the online resources for interview preparation
 ## SQL
 -[sql](https://www.sqltutorial.org/)
 -[indexing](https://blog.newtum.com/indexing-in-sql/)
+
+## DSA
+  - ## Backtracking
+  - [backtracking by algomaster](https://algomaster.io/learn/dsa/backtracking-introduction)
+  - [backtracking by codejeet](https://codejeet.com/blog/backtracking-interview-questions-patterns)
+  - [common patterns](https://labuladong.online/en/algo/essential-technique/backtrack-framework/)
