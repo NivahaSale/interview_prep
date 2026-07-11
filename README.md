@@ -47,6 +47,8 @@ adding all the online resources for interview preparation
 - [OS - lovebabbar](https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view)
 - [OS notes](https://github.com/giriraj191/operating_systems/blob/master/Notes%20OS%20Interview.pdf)
 
+## OOP's
+- [OOP's](https://algomaster.io/learn/lld)
 ## DBMS
 - [dbms roadmap by love babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
