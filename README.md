@@ -46,6 +46,7 @@ adding all the online resources for interview preparation
 - [OS - cheatsheet by lovebabbar](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
 - [OS - lovebabbar](https://drive.google.com/file/d/1OcFZwNqRkLGrT3E2UzV6pDHlIMqVeeHP/view)
 - [OS notes](https://github.com/giriraj191/operating_systems/blob/master/Notes%20OS%20Interview.pdf)
+- [quick notes](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view)
 
 ## OOP's
 - [OOP's](https://algomaster.io/learn/lld)
