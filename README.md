@@ -58,7 +58,10 @@ adding all the online resources for interview preparation
 
 ## SQL
 -[sql](https://www.sqltutorial.org/)
+
 -[indexing](https://blog.newtum.com/indexing-in-sql/)
+
+-[difference btw GROUP BY and DISTINCT](https://www.geeksforgeeks.org/sql/distinct-vs-group-by-in-sql/)
 
 ## DSA
   - ## Backtracking
