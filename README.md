@@ -69,3 +69,4 @@ adding all the online resources for interview preparation
   - [backtracking by codejeet](https://codejeet.com/blog/backtracking-interview-questions-patterns)
   - [common patterns](https://labuladong.online/en/algo/essential-technique/backtrack-framework/)
   - [Heaps](https://builtin.com/articles/heap-data-structure)
+  - [heaps](https://last9.io/blog/heaps-in-java/)
