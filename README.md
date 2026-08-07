@@ -52,6 +52,7 @@ adding all the online resources for interview preparation
 ## OOP's
 - [OOP's](https://algomaster.io/learn/lld)
 ## DBMS
+- [DBMS Notes by love babbar](https://drive.google.com/file/d/1y3KKghRhQjKfbWhvLipMOCCemKd_XdTm/view)
 - [dbms roadmap by love babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
 - [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
