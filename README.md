@@ -58,6 +58,8 @@ adding all the online resources for interview preparation
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
 - [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
 - [normalization - my notes](https://niteshkrr.github.io/My_notes/dbms/normalization/)
+- [normalization nice](https://deepakcs2003.github.io/core_notes/DBMS_NOTE/DBMS_Normalization.html)
+- [mornalization pdf](https://lse-me314.github.io/other_resources/database_normalisation_notes.pdf)
 
 ## SQL
 -[sql](https://www.sqltutorial.org/)
