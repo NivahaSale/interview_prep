@@ -57,6 +57,7 @@ adding all the online resources for interview preparation
 - [dbms roadmap by love babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 - [referential integrity](https://www.scholarhat.com/tutorial/dbms/referential-integrity-constrainsts-in-dbms)
 - [normalization](https://www.datacamp.com/tutorial/normalization-in-sql)
+- [normalization - my notes](https://niteshkrr.github.io/My_notes/dbms/normalization/)
 
 ## SQL
 -[sql](https://www.sqltutorial.org/)
