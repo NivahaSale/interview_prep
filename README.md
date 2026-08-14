@@ -6,7 +6,7 @@ adding all the online resources for interview preparation
 ## LLM's
   - [LLM interview Q's - Medium blog](https://adilshamim8.medium.com/50-practical-llm-interview-questions-crack-ai-genai-roles-with-confidence-e1f789e01348)
   - [blog](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/)
-
+  - [context-window](https://medium.com/@adityaa9971/context-windows-explained-what-they-are-why-they-matter-and-how-they-affect-everything-you-build-3a436cf5a712)
 
 ## Machine Learning
   - [ML_cheatsheets.pdf](https://www.rivista.ai/wp-content/uploads/2024/05/ML_cheatsheets.pdf)
