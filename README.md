@@ -68,6 +68,7 @@ adding all the online resources for interview preparation
 -[indexing](https://blog.newtum.com/indexing-in-sql/)
 
 -[difference btw GROUP BY and DISTINCT](https://www.geeksforgeeks.org/sql/distinct-vs-group-by-in-sql/)
+-[ACID Props](https://medium.com/@rajesh_data_ai/acid-properties-in-sql-databases-b5904c569889)
 
 ## DSA
   - ## Backtracking
