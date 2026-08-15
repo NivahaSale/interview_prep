@@ -19,15 +19,12 @@ adding all the online resources for interview preparation
   - [Activation functions](https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5/)
   - [ML Cheat sheet by datacamp](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)
 ##
-  -[Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
+  - [Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 ##
-  -[ml- netlearning](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
-  
-  -[ml-simplelearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
-  
-  -[gen ai by datacamp](https://www.datacamp.com/blog/genai-interview-questions)
-  
-  -[ai by datacamp](https://www.datacamp.com/blog/ai-interview-questions)
+  - [ml- netlearning](https://www.netcomlearning.com/blog/machine-learning-interview-questions)
+  - [ml-simplelearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
+  - [gen ai by datacamp](https://www.datacamp.com/blog/genai-interview-questions)
+  - [ai by datacamp](https://www.datacamp.com/blog/ai-interview-questions)
   
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
@@ -63,10 +60,10 @@ adding all the online resources for interview preparation
 - [dbms last min notes](https://github.com/honeykpatel/DBMS-Notes)
 
 ## SQL
--[sql](https://www.sqltutorial.org/)
--[indexing](https://blog.newtum.com/indexing-in-sql/)
--[difference btw GROUP BY and DISTINCT](https://www.geeksforgeeks.org/sql/distinct-vs-group-by-in-sql/)
--[ACID Props](https://medium.com/@rajesh_data_ai/acid-properties-in-sql-databases-b5904c569889)
+- [sql](https://www.sqltutorial.org/)
+- [indexing](https://blog.newtum.com/indexing-in-sql/)
+- [difference btw GROUP BY and DISTINCT](https://www.geeksforgeeks.org/sql/distinct-vs-group-by-in-sql/)
+- [ACID Props](https://medium.com/@rajesh_data_ai/acid-properties-in-sql-databases-b5904c569889)
 
 ## DSA
   - ## Backtracking
