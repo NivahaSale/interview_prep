@@ -46,6 +46,7 @@ adding all the online resources for interview preparation
 - [quick notes](https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view)
 - [by ibm](https://www.ibm.com/think/topics/operating-systems)
 - [os last min ](https://github.com/aman0046/LastMinuteRevision-OS)
+- [os-medium-blog](https://hritikaa9.medium.com/operating-system-notes-for-interviews-complete-beginner-to-advanced-guide-15030956897f)
 
 ## OOP's
 - [OOP's](https://algomaster.io/learn/lld)
