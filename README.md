@@ -76,3 +76,4 @@ adding all the online resources for interview preparation
 
 ## System design
   - [50 System design concepts](https://designgurus.substack.com/p/50-system-design-concepts-for-beginners)
+  - [sd](https://www.designgurus.io/blog/system-design-tutorial-for-beginners)
