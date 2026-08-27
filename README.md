@@ -60,6 +60,7 @@ adding all the online resources for interview preparation
 - [normalization nice](https://deepakcs2003.github.io/core_notes/DBMS_NOTE/DBMS_Normalization.html)
 - [mornalization pdf](https://lse-me314.github.io/other_resources/database_normalisation_notes.pdf)
 - [dbms last min notes](https://github.com/honeykpatel/DBMS-Notes)
+- [interview questions](https://www.interviewbit.com/dbms-interview-questions/?sign_up_medium=ib_article_auth_blocker)
 
 ## SQL
 - [sql](https://www.sqltutorial.org/)
