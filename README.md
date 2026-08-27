@@ -66,6 +66,7 @@ adding all the online resources for interview preparation
 - [difference btw GROUP BY and DISTINCT](https://www.geeksforgeeks.org/sql/distinct-vs-group-by-in-sql/)
 - [ACID Props](https://medium.com/@rajesh_data_ai/acid-properties-in-sql-databases-b5904c569889)
 - [25 common sql queries](https://gist.github.com/maulikrajput/1fc929bf9469d0d8744dabc62ec49d62)
+- [sql Q&A's](https://www.acte.in/recently-asked-infosys-sql-interview-questions-and-answers)
 ## DSA
   - ## Backtracking
   - [backtracking by algomaster](https://algomaster.io/learn/dsa/backtracking-introduction)
