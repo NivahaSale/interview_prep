@@ -73,6 +73,7 @@ adding all the online resources for interview preparation
   - [common patterns](https://labuladong.online/en/algo/essential-technique/backtrack-framework/)
   - [Heaps](https://builtin.com/articles/heap-data-structure)
   - [heaps](https://last9.io/blog/heaps-in-java/)
+  - [dp](https://leetcode.com/discuss/post/7333827/the-pattern-based-approach-to-mastering-uwgbd/)
 
 ## System design
   - [50 System design concepts](https://designgurus.substack.com/p/50-system-design-concepts-for-beginners)
