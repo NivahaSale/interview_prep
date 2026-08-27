@@ -75,6 +75,7 @@ adding all the online resources for interview preparation
   - [heaps](https://last9.io/blog/heaps-in-java/)
   - [dp](https://leetcode.com/discuss/post/7333827/the-pattern-based-approach-to-mastering-uwgbd/)
   - [pattern cheatsheet](https://algoark.io/cheatsheet)
+  - [patterns + templetes](https://malharchauhan7.github.io/the-only-cheatsheets/dsa/dsa-patterns.html)
 
 ## System design
   - [50 System design concepts](https://designgurus.substack.com/p/50-system-design-concepts-for-beginners)
