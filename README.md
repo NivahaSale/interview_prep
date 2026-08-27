@@ -70,6 +70,7 @@ adding all the online resources for interview preparation
 - [25 common sql queries](https://gist.github.com/maulikrajput/1fc929bf9469d0d8744dabc62ec49d62)
 - [sql Q&A's](https://www.acte.in/recently-asked-infosys-sql-interview-questions-and-answers)
 - [dataducky](https://dataducky.com/)
+- [sql cheatsheet](https://drive.google.com/file/d/1sGn1aiE6gvGdakA52jjtXmN7TfogYrTB/view)
 ## DSA
   - ## Backtracking
   - [backtracking by algomaster](https://algomaster.io/learn/dsa/backtracking-introduction)
