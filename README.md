@@ -87,3 +87,8 @@ adding all the online resources for interview preparation
   - [sd](https://www.designgurus.io/blog/system-design-tutorial-for-beginners)
   - [git](https://github.com/ashishps1/awesome-system-design-resources)
   - [system design-mynotes](https://niteshkrr.github.io/My_notes/system_design/)
+  - [system design by karan pratap singh](https://github.com/karanpratapsingh/system-design)
+  - [SD by CodeKarle](https://www.codekarle.com/)
+  - [Awesome LLD](https://github.com/ashishps1/awesome-low-level-design)
+  - [hello interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+  - [ByteByteGo SD](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
