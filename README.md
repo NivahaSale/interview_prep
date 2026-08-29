@@ -95,3 +95,4 @@ adding all the online resources for interview preparation
 ## Java
   - [java -tpoint](https://www.tpointtech.com/corejava-interview-questions)
   - [java - interviewBit](https://www.interviewbit.com/java-interview-questions/)
+  - [hashMaps - internal implementation](https://javaknowledgebase.com/how-hashmap-internally-works-in-java/)
