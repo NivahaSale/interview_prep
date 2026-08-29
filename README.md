@@ -97,3 +97,4 @@ adding all the online resources for interview preparation
   - [java - interviewBit](https://www.interviewbit.com/java-interview-questions/)
   - [hashMaps - internal implementation](https://javaknowledgebase.com/how-hashmap-internally-works-in-java/)
   - [hashSet - internal implementation](https://medium.com/@manvichaddha4/internal-working-of-hashset-83cd5ce84a18)
+  - [stack & heap memory , garbage collection - medium blog](https://medium.com/javarevisited/heap-and-stack-memory-in-java-a-deep-dive-cb624fad8c88)
