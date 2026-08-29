@@ -92,3 +92,6 @@ adding all the online resources for interview preparation
   - [Awesome LLD](https://github.com/ashishps1/awesome-low-level-design)
   - [hello interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
   - [ByteByteGo SD](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
+## Java
+  - [java -tpoint](https://www.tpointtech.com/corejava-interview-questions)
+  - [java - interviewBit](https://www.interviewbit.com/java-interview-questions/)
