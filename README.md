@@ -8,6 +8,8 @@ adding all the online resources for interview preparation
   - [blog](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/)
   - [context-window](https://medium.com/@adityaa9971/context-windows-explained-what-they-are-why-they-matter-and-how-they-affect-everything-you-build-3a436cf5a712)
   - [API-Call](https://blog.hubspot.com/website/api-calls)
+
+  - [FAISS - UpGrad](https://www.upgrad.com/blog/what-is-faiss/)
 ## Machine Learning
   - [ML_cheatsheets.pdf](https://www.rivista.ai/wp-content/uploads/2024/05/ML_cheatsheets.pdf)
   - [ML interview questions by datacamp](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
