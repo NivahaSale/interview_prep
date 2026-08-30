@@ -98,3 +98,5 @@ adding all the online resources for interview preparation
   - [hashMaps - internal implementation](https://javaknowledgebase.com/how-hashmap-internally-works-in-java/)
   - [hashSet - internal implementation](https://medium.com/@manvichaddha4/internal-working-of-hashset-83cd5ce84a18)
   - [stack & heap memory , garbage collection - medium blog](https://medium.com/javarevisited/heap-and-stack-memory-in-java-a-deep-dive-cb624fad8c88)
+## React
+  - [10 concepts of react - medium](https://medium.com/@AbidKazmi/10-most-important-concepts-of-react-js-a15e93596766)
