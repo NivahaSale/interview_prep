@@ -102,3 +102,4 @@ adding all the online resources for interview preparation
 ## React
   - [10 concepts of react - medium](https://medium.com/@AbidKazmi/10-most-important-concepts-of-react-js-a15e93596766)
   - [rendering](https://medium.com/@feliciadogarro/react-rendering-an-in-depth-look-393a708e08d6)
+  - [components & props](https://binarybit.medium.com/understanding-components-and-props-in-react-d6a3f57bd218)
