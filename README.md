@@ -95,6 +95,7 @@ adding all the online resources for interview preparation
 ## Java
   - [java -tpoint](https://www.tpointtech.com/corejava-interview-questions)
   - [java - interviewBit](https://www.interviewbit.com/java-interview-questions/)
+  - [components](https://medium.com/@reactmasters.in/what-are-components-and-types-of-components-in-react-js-4e2642b136a2)
   - [hashMaps - internal implementation](https://javaknowledgebase.com/how-hashmap-internally-works-in-java/)
   - [hashSet - internal implementation](https://medium.com/@manvichaddha4/internal-working-of-hashset-83cd5ce84a18)
   - [stack & heap memory , garbage collection - medium blog](https://medium.com/javarevisited/heap-and-stack-memory-in-java-a-deep-dive-cb624fad8c88)
