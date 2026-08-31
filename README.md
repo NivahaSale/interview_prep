@@ -10,6 +10,7 @@ adding all the online resources for interview preparation
   - [API-Call](https://blog.hubspot.com/website/api-calls)
 
   - [FAISS - UpGrad](https://www.upgrad.com/blog/what-is-faiss/)
+  - [vector-embeddings](https://www.teachfloor.com/blog/vector-embeddings)
 ## Machine Learning
   - [ML_cheatsheets.pdf](https://www.rivista.ai/wp-content/uploads/2024/05/ML_cheatsheets.pdf)
   - [ML interview questions by datacamp](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
