@@ -36,6 +36,7 @@ adding all the online resources for interview preparation
 - [ports & protocols](https://sslinsights.com/what-are-network-ports-and-protocols/)
 - [interview questions](https://www.interviewbit.com/networking-interview-questions/)
 - [IP Addresses](https://www.itjones.com/blogs/understanding-ip-addresses-basics-of-computer-networking)
+- [MAC Address](https://www.cloudns.net/blog/mac-address-everything-you-need-to-know/)
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
 - [git cheatsheet(repo)](https://github.com/krishnasagrawal/Git-Study-Materials-and-Resources/blob/main/Git%20and%20GitHub%20-%20Datasheet%20by%20Durgesh.pdf)
