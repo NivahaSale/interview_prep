@@ -39,6 +39,7 @@ adding all the online resources for interview preparation
 - [MAC Address](https://www.cloudns.net/blog/mac-address-everything-you-need-to-know/)
 - [DHCP](https://www.guvi.in/blog/dhcp-in-computer-networks/)
 - [ARP](https://www.cloudns.net/blog/arp-address-resolution-protocol-why-is-it-important/)
+- [DNS](https://blog.algomaster.io/p/how-dns-actually-works)
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
 - [git cheatsheet(repo)](https://github.com/krishnasagrawal/Git-Study-Materials-and-Resources/blob/main/Git%20and%20GitHub%20-%20Datasheet%20by%20Durgesh.pdf)
