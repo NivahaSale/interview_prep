@@ -119,4 +119,4 @@ adding all the online resources for interview preparation
   - [components & props](https://binarybit.medium.com/understanding-components-and-props-in-react-d6a3f57bd218)
 ## Resourses
   - ## CN
-      - (unwiredlearning)[https://unwiredlearning.com]
+      - [unwiredlearning](https://unwiredlearning.com/blog/network-routing-basics)
