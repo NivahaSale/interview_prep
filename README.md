@@ -46,6 +46,7 @@ adding all the online resources for interview preparation
 - [TCP vs UDP](https://blog.ashishkumarsaini.dev/tcp-vs-udp)
 - [TCP working (3 way handshaking)](https://blog.ashishkumarsaini.dev/tcp-working)
 - [routing basics](https://unwiredlearning.com/blog/network-routing-basics)
+- [TTL](https://www.imperva.com/learn/performance/time-to-live-ttl/)
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
 - [git cheatsheet(repo)](https://github.com/krishnasagrawal/Git-Study-Materials-and-Resources/blob/main/Git%20and%20GitHub%20-%20Datasheet%20by%20Durgesh.pdf)
