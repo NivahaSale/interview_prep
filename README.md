@@ -65,6 +65,7 @@ adding all the online resources for interview preparation
 - [by ibm](https://www.ibm.com/think/topics/operating-systems)
 - [os last min ](https://github.com/aman0046/LastMinuteRevision-OS)
 - [os-medium-blog](https://hritikaa9.medium.com/operating-system-notes-for-interviews-complete-beginner-to-advanced-guide-15030956897f)
+- [process vs thread](https://www.placementpreparation.io/blog/process-vs-thread/)
 
 ## OOP's
 - [OOP's](https://algomaster.io/learn/lld)
