@@ -37,6 +37,7 @@ adding all the online resources for interview preparation
 - [interview questions](https://www.interviewbit.com/networking-interview-questions/)
 - [IP Addresses](https://www.itjones.com/blogs/understanding-ip-addresses-basics-of-computer-networking)
 - [MAC Address](https://www.cloudns.net/blog/mac-address-everything-you-need-to-know/)
+- [MAC vs IP](https://bluecatnetworks.com/blog/mac-address-vs-ip-address-whats-the-difference/)
 - [DHCP](https://www.guvi.in/blog/dhcp-in-computer-networks/)
 - [ARP](https://www.cloudns.net/blog/arp-address-resolution-protocol-why-is-it-important/)
 - [DNS](https://blog.algomaster.io/p/how-dns-actually-works)
