@@ -69,6 +69,9 @@ adding all the online resources for interview preparation
 - [process states](https://www.guvi.in/blog/process-state-diagram-in-os/)
 - [scheduling alogs](https://www.tpointtech.com/cpu-scheduling-algorithms-in-operating-systems)
 - [context switching](https://unwiredlearning.com/blog/context-switching-basics)
+
+- ##Resources
+  - [unwiredlearning](https://unwiredlearning.com/blog/operating-system-objectives)
 ## OOP's
 - [OOP's](https://algomaster.io/learn/lld)
 ## DBMS
