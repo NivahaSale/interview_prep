@@ -70,6 +70,7 @@ adding all the online resources for interview preparation
 - [scheduling alogs](https://www.tpointtech.com/cpu-scheduling-algorithms-in-operating-systems)
 - [context switching](https://unwiredlearning.com/blog/context-switching-basics)
 - [user vs kernel mode](https://unwiredlearning.com/blog/user-kernel-mode)
+- [semaphore](https://medium.com/@pushpendrajtp99/semaphore-in-operating-system-e3c0a21655a8)
 
  - ## - Resources
   - [unwiredlearning](https://unwiredlearning.com/blog/operating-system-objectives)
