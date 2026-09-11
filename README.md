@@ -71,7 +71,7 @@ adding all the online resources for interview preparation
 - [context switching](https://unwiredlearning.com/blog/context-switching-basics)
 - [user vs kernel mode](https://unwiredlearning.com/blog/user-kernel-mode)
 - [semaphore](https://medium.com/@pushpendrajtp99/semaphore-in-operating-system-e3c0a21655a8)
-
+- [virtual memory](https://www.ccbp.in/blog/articles/virtual-memory-in-os)
  - ## - Resources
   - [unwiredlearning](https://unwiredlearning.com/blog/operating-system-objectives)
 ## OOP's
