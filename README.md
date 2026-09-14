@@ -132,6 +132,7 @@ adding all the online resources for interview preparation
   - [pointers](https://medium.com/the-coding-handbook/c-programming-pointers-in-c-c585edc6d3dd)
   - [references](https://medium.com/@the_infinity/references-in-c-987e592d901c)
   - [memory management](https://blog.newtum.com/memory-management-in-c/)
+  - [pass by value & by reference](https://www.educative.io/answers/pass-by-value-vs-pass-by-reference)
 ## React
   - [10 concepts of react - medium](https://medium.com/@AbidKazmi/10-most-important-concepts-of-react-js-a15e93596766)
   - [rendering](https://medium.com/@feliciadogarro/react-rendering-an-in-depth-look-393a708e08d6)
