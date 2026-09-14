@@ -130,6 +130,8 @@ adding all the online resources for interview preparation
   - [stack & heap memory , garbage collection - medium blog](https://medium.com/javarevisited/heap-and-stack-memory-in-java-a-deep-dive-cb624fad8c88)
 ## C
   - [pointers](https://medium.com/the-coding-handbook/c-programming-pointers-in-c-c585edc6d3dd)
+  - [references](https://medium.com/@the_infinity/references-in-c-987e592d901c)
+  - [memory management](https://blog.newtum.com/memory-management-in-c/)
 ## React
   - [10 concepts of react - medium](https://medium.com/@AbidKazmi/10-most-important-concepts-of-react-js-a15e93596766)
   - [rendering](https://medium.com/@feliciadogarro/react-rendering-an-in-depth-look-393a708e08d6)
