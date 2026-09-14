@@ -74,6 +74,7 @@ adding all the online resources for interview preparation
 - [virtual memory](https://www.ccbp.in/blog/articles/virtual-memory-in-os)
 - [paging](https://www.theknowledgeacademy.com/blog/paging-in-operating-system/)
 - [page fault](https://unwiredlearning.com/blog/page-fault-handling)
+- [Memory management](https://phoenixnap.com/kb/memory-management)
  - ## - Resources
   - [unwiredlearning](https://unwiredlearning.com/blog/operating-system-objectives)
 ## OOP's
