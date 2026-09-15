@@ -8,7 +8,8 @@ adding all the online resources for interview preparation
   - [blog](https://www.analyticsvidhya.com/blog/2026/01/llm-interview-questions-and-answers/)
   - [context-window](https://medium.com/@adityaa9971/context-windows-explained-what-they-are-why-they-matter-and-how-they-affect-everything-you-build-3a436cf5a712)
   - [API-Call](https://blog.hubspot.com/website/api-calls)
-
+  - [RAG](https://www.datacamp.com/blog/what-is-retrieval-augmented-generation-rag)
+  - [chunking](https://medium.com/@dev_tips/25-chunking-tricks-for-rag-that-devs-actually-use-12bebd0375bc)
   - [FAISS - UpGrad](https://www.upgrad.com/blog/what-is-faiss/)
   - [vector-embeddings](https://www.teachfloor.com/blog/vector-embeddings)
 ## Machine Learning
@@ -137,6 +138,7 @@ adding all the online resources for interview preparation
   - [10 concepts of react - medium](https://medium.com/@AbidKazmi/10-most-important-concepts-of-react-js-a15e93596766)
   - [rendering](https://medium.com/@feliciadogarro/react-rendering-an-in-depth-look-393a708e08d6)
   - [components & props](https://binarybit.medium.com/understanding-components-and-props-in-react-d6a3f57bd218)
+  - [doc](https://react.dev/learn)
 ## Resourses
   - ## CN
       - [unwiredlearning](https://unwiredlearning.com/blog/network-routing-basics)
