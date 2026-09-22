@@ -22,6 +22,8 @@ adding all the online resources for interview preparation
   - [loss functions](https://www.datacamp.com/tutorial/loss-function-in-machine-learning)
   - [Activation functions](https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5/)
   - [ML Cheat sheet by datacamp](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)
+  - [feature engineering](https://www.datacamp.com/tutorial/feature-engineering)
+  - [encoders in ml](https://code-b.dev/blog/encoders-machine-learning)
 ##
   - [Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 ##
@@ -29,6 +31,7 @@ adding all the online resources for interview preparation
   - [ml-simplelearn](https://www.simplilearn.com/tutorials/machine-learning-tutorial/machine-learning-interview-questions)
   - [gen ai by datacamp](https://www.datacamp.com/blog/genai-interview-questions)
   - [ai by datacamp](https://www.datacamp.com/blog/ai-interview-questions)
+  - [80 ml interview questions](https://www.interviewcoder.co/blog/ml-interview-questions)
   
 ## Computer Networking
 - [Kunal Kushwaha's Computer Networking notes](https://github.com/rishitxyz/Networking-Course)
