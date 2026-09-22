@@ -53,6 +53,8 @@ adding all the online resources for interview preparation
 - [routing basics](https://unwiredlearning.com/blog/network-routing-basics)
 - [TTL](https://www.imperva.com/learn/performance/time-to-live-ttl/)
 - [sockets](https://algocademy.com/blog/introduction-to-sockets-and-real-time-communication/)
+- ##
+  - [file sharing](https://www.broadbandsearch.net/definitions/file-sharing)
 ## Git & GitHub
 - [gfg git guide](https://www.geeksforgeeks.org/blogs/ultimate-guide-git-github/)
 - [git cheatsheet(repo)](https://github.com/krishnasagrawal/Git-Study-Materials-and-Resources/blob/main/Git%20and%20GitHub%20-%20Datasheet%20by%20Durgesh.pdf)
