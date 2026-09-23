@@ -24,6 +24,7 @@ adding all the online resources for interview preparation
   - [ML Cheat sheet by datacamp](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet)
   - [feature engineering](https://www.datacamp.com/tutorial/feature-engineering)
   - [encoders in ml](https://code-b.dev/blog/encoders-machine-learning)
+  - [regularization](https://www.datacamp.com/tutorial/regularization-in-machine-learning)
 ##
   - [Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 ##
