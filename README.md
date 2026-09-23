@@ -25,6 +25,10 @@ adding all the online resources for interview preparation
   - [feature engineering](https://www.datacamp.com/tutorial/feature-engineering)
   - [encoders in ml](https://code-b.dev/blog/encoders-machine-learning)
   - [regularization](https://www.datacamp.com/tutorial/regularization-in-machine-learning)
+  - [cross validation](https://plutuseducation.com/blog/cross-validation-machine-learning/)
+  - [normalization](https://pub.towardsai.net/data-normalization-in-ml-489f059de284)
+  - [data leakage](https://www.tutorialspoint.com/machine_learning/machine_learning_data_leakage.htm)
+  - [hyperparameters](https://medium.com/@etimfonime/hyperparameters-in-machine-learning-c8b06dde7a31)
 ##
   - [Transformer Architecture - by datacamp](https://www.datacamp.com/tutorial/how-transformers-work)
 ##
