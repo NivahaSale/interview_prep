@@ -134,6 +134,7 @@ adding all the online resources for interview preparation
   - [hello interview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
   - [ByteByteGo SD](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
   - [liquidslr - system-design-notes(github)](https://github.com/liquidslr/system-design-notes)
+  - [lld](https://algomaster.io/learn/lld)
 ## Java
   - [java -tpoint](https://www.tpointtech.com/corejava-interview-questions)
   - [java - interviewBit](https://www.interviewbit.com/java-interview-questions/)
