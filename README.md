@@ -121,7 +121,7 @@ adding all the online resources for interview preparation
   - [dp](https://leetcode.com/discuss/post/7333827/the-pattern-based-approach-to-mastering-uwgbd/)
   - [pattern cheatsheet](https://algoark.io/cheatsheet)
   - [patterns + templetes](https://malharchauhan7.github.io/the-only-cheatsheets/dsa/dsa-patterns.html)
-  - [5 graph-algos-neetcode](https://neetcode.io/courses/lessons/5-graph-algorithms)
+  - [patterns - algoark (with animations)](https://algoark.io/patterns)
   - [cheatsheet](https://thecodeforge.io/cheatsheets/dsa-cheatsheet/)
 
 ## System design
