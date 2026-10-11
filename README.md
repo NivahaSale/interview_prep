@@ -102,6 +102,7 @@ adding all the online resources for interview preparation
 - [dbms last min notes](https://github.com/honeykpatel/DBMS-Notes)
 - [interview questions](https://www.interviewbit.com/dbms-interview-questions/?sign_up_medium=ib_article_auth_blocker)
 - [hashing in DBMS](https://herovired.com/learning-hub/topics/hashing-in-dbms)
+- [referential integrity](https://www.acceldata.io/blog/referential-integrity-why-its-vital-for-databases)
 ## SQL
 - [sql](https://www.sqltutorial.org/)
 - [indexing](https://blog.newtum.com/indexing-in-sql/)
