@@ -155,6 +155,8 @@ adding all the online resources for interview preparation
   - [rendering](https://medium.com/@feliciadogarro/react-rendering-an-in-depth-look-393a708e08d6)
   - [components & props](https://binarybit.medium.com/understanding-components-and-props-in-react-d6a3f57bd218)
   - [doc](https://react.dev/learn)
+## API's
+  - [idempotence](https://www.freecodecamp.org/news/idempotence-explained)
 ## Resourses
   - ## CN
       - [unwiredlearning](https://unwiredlearning.com/blog/network-routing-basics)
